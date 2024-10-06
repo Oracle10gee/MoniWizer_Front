@@ -1,0 +1,32 @@
+.inp-field {
+  width: 524px;
+  height: 28px;
+  gap: 0px;
+  border-radius: 4px;
+  border: 0.5px 0px 0px 0px;
+  opacity: 0px;
+  border: 0.5px solid #bdbdbd;
+  outline: none;
+  padding: 0 10px;
+  height: 40px;
+}
+.label-text {
+  font-size: 16px;
+  font-weight: 500;
+  color: #4f4f4f;
+  margin-bottom: 10px;
+}
+.textarea-inp {
+  min-height: 100px;
+}
+.send-btn {
+  background: #011b33;
+  color: #fff;
+  padding: 0 10px;
+  height: 40px;
+  border-radius: 10px;
+  margin: 10px 0;
+}
+.insta {
+color: #bc3081 !important;
+}
