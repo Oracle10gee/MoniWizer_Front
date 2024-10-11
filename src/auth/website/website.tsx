@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
-// import "bootstrap/dist/css/bootstrap.min.css";
-// import "bootstrap/dist/js/bootstrap.bundle.min";
+import "bootstrap/dist/css/bootstrap.min.css";
+import "bootstrap/dist/js/bootstrap.bundle.min";
 import "./index.css";
 import Flowchart from "assets/icons/svgs/moniwizr_flowchart.png";
 import LinkedIn from "assets/icons/svgs/linkedIn.svg";
