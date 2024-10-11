@@ -81,6 +81,11 @@ export const ModalForm: React.FC<ModalFormProps> = ({
     }
   };
 
+  // Return null if showModal is false
+  if (!showModal) {
+    return null;
+  }
+
   return (
     showModal && (
       <div className="modal">
